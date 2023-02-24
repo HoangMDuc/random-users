@@ -1,3 +1,6 @@
+Instructions for setting up and running the project
+
+
 Step 1: Create a folder to contain the source code.
 
 
